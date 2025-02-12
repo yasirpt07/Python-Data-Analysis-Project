@@ -6,7 +6,7 @@ This project is a data analysis task performed using Python. The dataset provide
 
 📂 Dataset Details 
 
-The dataset includes the following columns:
+The dataset (myexcel.csv) includes the following columns:
 
 Name - Employee name
 
