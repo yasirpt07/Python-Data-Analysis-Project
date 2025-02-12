@@ -46,13 +46,13 @@ Visualization: Bar Chart & Percentage Calculation
 
 Categorized employees based on job roles.
 
-Visualization: Bar Chart
+Visualization: Pie Charts
 
 3️⃣ Predominant Age Group
 
 Created age groups (20-30, 31-40, etc.).
 
-Visualization: Histogram
+Visualization: Bar Charts
 
 4️⃣ Highest Salary Expenditure
 
